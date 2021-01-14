@@ -15,8 +15,7 @@
 privado/
 
 # Carpeta logs menos Ppublic.txt#
-logs/*
-!logs/[Pp]ublic.txt
+
 
 # Fotos #
 assets/
