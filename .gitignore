@@ -1,11 +1,25 @@
 # Compiled source #
 ###################
 *.com
+
+#Menos a.com#
+!a.com
+
 *.class
 *.dll
 *.exe
 *.o
 *.so
+
+# Carpeta privado #
+privado/
+
+# Carpeta logs menos Ppublic.txt#
+logs/
+!logs/[Pp]ublic.txt
+
+# Fotos #
+assets/
 
 # Packages #
 ############
